@@ -58,7 +58,7 @@ Vérifiez la faisabilité initiale (par exemple,
 𝐵
 ≥
 0
-B≥0) pour éviter les résultats incorrects.
+) pour éviter les résultats incorrects.
 Documentation :
 
 Commentez davantage les sections critiques du code pour améliorer la compréhension, surtout pour les variables comme VB, ConfZ, ConfM.
